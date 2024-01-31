@@ -1,0 +1,7 @@
+jour 1: faire la grille et voir où clique la souris
+
+jour 2: en focntion d'où la souris clique, ajouter un O ou un X dans la colonne (tour par tour)
+
+jour 3: détecter les conditions de victoire (horizontal/vertical/diagonal/abandon) + affichage du tour 
+
+jour 4: rendre la grille plus jolie + ajout des noms de joueurs
